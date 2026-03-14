@@ -5,6 +5,11 @@ body
     color: white;
 }
 
+html
+{
+    scroll-behavior: smooth;
+}
+
 h1.Logo
 {
     font-size: 50px;
@@ -88,6 +93,7 @@ h1
 .authors a
 {
     opacity: 0.9;
+
 }
 
 .authors a:hover
@@ -156,3 +162,111 @@ h2
     font-weight: 400;
     color: #39a5f1;
 }
+
+.contact
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    text-align: center;
+    padding-bottom: 70px;
+    margin-bottom: 50px;
+}
+
+.contact p
+{
+    margin-bottom: 40px;
+}
+
+.bluebutton
+{
+    background-color: #1c74b2;
+    padding: 15px;
+    color: #efefef;
+    font-size: 19px;
+    text-decoration: none;
+    border-radius: 5px;
+    min-width: 300px;
+}
+
+.bluebutton:hover
+{
+    color: #0a2b42;
+    background-color: #0b63a1;
+}
+
+.socials
+{
+    width: 100%;
+    text-align: center;
+    background-color: #191d21;
+
+}
+
+.social-divs
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.footer
+{
+    text-align: center;
+    padding: 20px;
+    background-color: #222222;
+}
+
+.fb
+{
+    width: 250px;
+    height: 155px;
+    float : left;
+}
+
+.fb:hover
+{
+    cursor: pointer;
+    background-color: #4668b3;
+}
+
+.yt
+{
+    width: 250px;
+    height: 155px;
+    float : left;
+}
+
+.yt:hover
+{
+    cursor: pointer;
+    background-color: #d94348;
+}
+
+.gplus
+{
+    width: 250px;
+    height: 155px;
+    float : left;
+}
+
+.gplus:hover
+{
+    cursor: pointer;
+    background-color: #d95333;
+}
+
+.twitter
+{
+    width: 250px;
+    height: 155px;
+    float : left;
+}
+
+.twitter:hover
+{
+    cursor: pointer;
+    background-color: #3095d3;
+}
+
