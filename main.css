@@ -270,3 +270,10 @@ h2
     background-color: #3095d3;
 }
 
+.info
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 20px;
+}
