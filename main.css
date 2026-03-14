@@ -27,9 +27,8 @@ nav
 {
     background-color: #1c74b2;
     text-align: center;
-    position: sticky;
     top: 0;
-    display: flex;
+
 }
 
 .menu a
